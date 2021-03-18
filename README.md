@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @BellaRocha
+- 👀 I’m interested in sustainability, tech, and animal protection
+- 🌱 I’m currently learning web development and data analytics
+- 💞️ I’m looking to collaborate on any project that could benefit our environment or society
+- 📫 How to reach me bellarocha1216@icloud.com
