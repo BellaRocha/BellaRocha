@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @BellaRocha
-- 👀 I’m interested in sustainability, tech, and animal protection
-- 🌱 I’m currently learning web development and data analytics
+- 👋 Hi, I’m @Bella
+- 👀 I’m interested in sustainability, tech, and animal ethics
+- 🌱 I’m currently learning front-end development and cybersecurity practices
 - 💞️ I’m looking to collaborate on any project that could benefit our environment or society
-- 📫 How to reach me bellarocha1216@icloud.com
+- 📫 How to reach me ilr.human@gmail.com
